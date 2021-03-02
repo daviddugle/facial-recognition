@@ -55,6 +55,9 @@
 
 This is a facial recognition app that uses tensorflow and react webcam to capture the facial features.
 
+<a href='https://youtu.be/7lXYGDVHUNw' target='_blank'>found it online by Nicholas Renotte</a>
+
+
 
 
 
