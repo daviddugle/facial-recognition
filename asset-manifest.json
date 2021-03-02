@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/daviddugle/facial-recognition/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/daviddugle/facial-recognition/static/js/main.b95c1738.chunk.js",
+    "main.js.map": "/daviddugle/facial-recognition/static/js/main.b95c1738.chunk.js.map",
+    "runtime-main.js": "/daviddugle/facial-recognition/static/js/runtime-main.055d3e36.js",
+    "runtime-main.js.map": "/daviddugle/facial-recognition/static/js/runtime-main.055d3e36.js.map",
+    "static/js/2.a710b871.chunk.js": "/daviddugle/facial-recognition/static/js/2.a710b871.chunk.js",
+    "static/js/2.a710b871.chunk.js.map": "/daviddugle/facial-recognition/static/js/2.a710b871.chunk.js.map",
+    "static/js/3.4878e85f.chunk.js": "/daviddugle/facial-recognition/static/js/3.4878e85f.chunk.js",
+    "static/js/3.4878e85f.chunk.js.map": "/daviddugle/facial-recognition/static/js/3.4878e85f.chunk.js.map",
+    "index.html": "/daviddugle/facial-recognition/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/daviddugle/facial-recognition/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a710b871.chunk.js.LICENSE.txt": "/daviddugle/facial-recognition/static/js/2.a710b871.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.055d3e36.js",
+    "static/js/2.a710b871.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b95c1738.chunk.js"
+  ]
+}
